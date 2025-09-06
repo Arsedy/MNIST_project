@@ -36,5 +36,7 @@ Gerekli Python kütüphanelerini yükleyin:
 ---
 
 ##ÖNEMLİ NOT:
+
 -Proje içinde zaten 3 katmanında kaydedilmiş modeli vardır (mnist_model.pkl) o yüzden prediction.py direkt çalışır durumdadır.
+
 -Öğrenim amaçlı yazılmıştır
