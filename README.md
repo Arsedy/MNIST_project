@@ -25,8 +25,11 @@ Bu proje, MNIST veri setini kullanarak rakam tanıma için bir sinir ağı uygul
 
 Gerekli Python kütüphanelerini yükleyin:
 1.MNIST datasetleri dosyaya eklenmeli:
+
 -https://www.kaggle.com/datasets/oddrationale/mnist-in-csv (csv olması lazım!)
+
 -prediction.py denemek için img.png dosya örneklerini https://www.kaggle.com/datasets/alexanderyyy/mnist-png/data bu linkten kullandım
+
 2.pip install numpy matplotlib pillow
 
 ---
